@@ -1,1 +1,1 @@
-Coding at ALX is fun
+Adventure is the spice of life
